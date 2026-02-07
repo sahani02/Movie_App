@@ -48,3 +48,22 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Screenshot of project
+- Register Page
+<img width="466" height="847" alt="Screenshot 2026-02-07 144446" src="https://github.com/user-attachments/assets/80de7ae3-ffa3-4454-8a30-458d1dcce885" />
+
+- Login Page
+<img width="489" height="817" alt="Screenshot 2026-02-07 144505" src="https://github.com/user-attachments/assets/0a6c6d45-5a42-4a8e-ad3a-fc3d0e20560d" />
+
+- Home Page
+<img width="467" height="829" alt="Screenshot 2026-02-07 144524" src="https://github.com/user-attachments/assets/5c4eac37-6386-4b43-923e-7ef8ee646665" />
+
+- Favorite Page
+<img width="473" height="824" alt="Screenshot 2026-02-07 144622" src="https://github.com/user-attachments/assets/e9c0f304-a73e-4b3c-a95c-5cd56e5f8703" />
+
+- Profile Page
+<img width="537" height="823" alt="Screenshot 2026-02-07 144612" src="https://github.com/user-attachments/assets/fb61b9af-ede9-4b49-819e-e2f4e45bc88a" />
+
+
+
